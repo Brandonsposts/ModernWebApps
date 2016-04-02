@@ -9,7 +9,7 @@
 
     <servlet>
         <servlet-name>JSoup</servlet-name>
-        <servlet-class>JSoupServlet</servlet-class>
+        <servlet-class>TestJSoup</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>JSoup</servlet-name>
